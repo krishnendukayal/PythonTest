@@ -5,6 +5,7 @@ def defarg(name, age=33):
     return
 
 defarg(name="krishnendu")
+defarg(name="lala", age=50)
 
 # IF YOU MENTION DEFAULT ASSIGNED VALUE FAST AND THEN NORMAL VALUE LIKE (AGE=30, NAME) THEN WILL GET ERROR
 #    def defarg(age=33, name):

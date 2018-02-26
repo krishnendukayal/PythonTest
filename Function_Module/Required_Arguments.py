@@ -6,4 +6,3 @@ def needargu(str_value):
 
 str12="This is required argument fiunction"
 needargu(str12)
-needargu()

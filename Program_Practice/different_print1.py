@@ -1,0 +1,28 @@
+# Write a program to take a odd number between 1-10 and print as below
+# 999999999
+#   7777777
+#     55555
+#       333
+#         1
+#      333
+#     55555
+#    7777777
+#  999999999
+
+
+number = int(input("Please enter the number for different print\t"))
+a=[]
+for i in range(number+1):
+    if i%2==1:
+        a.append(i)
+
+print(a)
+
+for j in range(len(a)):
+    for k in range(len(a)-j):
+        print(a[len(a)-(j+1)], end=" ")
+    print("\n")
+for l in range(2, len(a)):
+    for m in range(2, l):
+        print(a[m], end=" ")
+    print("\n")

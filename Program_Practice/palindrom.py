@@ -21,7 +21,7 @@
 
 # Procedure:2
 
-input_string=raw_input("Please enter a string to check PALINDROME\t")
+input_string=input("Please enter a string to check PALINDROME\t")
 
 reverse_string=reversed(input_string)
 

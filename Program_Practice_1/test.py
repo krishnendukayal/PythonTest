@@ -3,4 +3,3 @@ print("Print number based on user input")
 i_n = input("Please enter your number to print\t")
 for i in range(int(i_n)):
     print(i)
-    print("i")

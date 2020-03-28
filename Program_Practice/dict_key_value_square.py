@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
+
 # Write a Python program which can print a dictionary where the keys are numbers between 1 and 20 (both included) and the values are square of keys.
 emply_dict={}
 for index in range(1, 21):

@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
+
 # Write a Python program to multiply all the items in a dictionary
 
 dict={1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}

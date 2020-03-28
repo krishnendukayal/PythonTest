@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
+
 # Write a program that count vowels in the given string using Dictionary
 
 vowels=["a","e","i","o","u","A","E","I","O","U"]

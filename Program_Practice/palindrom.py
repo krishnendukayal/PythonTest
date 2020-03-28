@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
+
 # Write a Python script to check if an input string is a Palindrome
 
 # Procedure 1:

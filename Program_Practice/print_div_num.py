@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
+
 # Write a Python script to print numbers between  1000-3000 which are multiple of 7 and not divisible by 5
 
 for i in range(1000, 3000):

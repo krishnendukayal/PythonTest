@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
+
 r=int(input("Enter upper limit: "))
 for a in range(2,r+1):
     k=0

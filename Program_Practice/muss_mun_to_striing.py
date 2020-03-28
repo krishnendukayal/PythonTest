@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
+
 # Write a Python script to count the number of vowels in a given input string
 
 num = raw_input("Enter the number for sum\t")

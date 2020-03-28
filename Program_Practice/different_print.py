@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
+
 # Write a program to take a odd number between 1-10 and print as below
 # 999999999
 #  7777777

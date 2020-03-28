@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
+
 input_number = int(input("Please enter the list of "))
 
 for i in range(1, input_number+1):

@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
+
 # Given 3 int values, a b c, print their sum. However, if one of the values is the same as another of the values, it does not count towards the sum.
 # Eg: 3,2,3 Output :2
 # 1,2,3 Output :6

@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
+
 print("This program will take the input number and will print the number and multiplication of the number")
 i_n = int(input("Please enter your number to print\t"))
 for i in range(i_n):

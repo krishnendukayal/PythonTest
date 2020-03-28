@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
+
 print("Write a Python script to print first 10 Fibonacci series")
 result = []
 

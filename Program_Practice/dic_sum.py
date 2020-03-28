@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
+
 # Write a Python program to sum all the items in a dictionary
 print("This is a program to sum all the item on the dictionary\nAssume all keys and values are numeric")
 dic1={1:10, 2:20}

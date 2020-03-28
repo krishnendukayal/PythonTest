@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
+
 import logging
 
 # logging.basicConfig(filename="sample.log", level=logging.INFO, format="%(asctime)s, %(filename)s, %(message)s")

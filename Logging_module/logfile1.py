@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
+
 import logging
 
 logging.basicConfig(filename="krish.txt", level=logging.DEBUG, format='%(levelname)s:%(name)s:%(message)s')

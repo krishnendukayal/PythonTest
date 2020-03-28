@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
+
 #Write a Python program to generate and print a list except the first 5 elements, where the values are square of numbers between 1 and 30 (both included)
 
 print("Write a Python program to generate and print a list except the first 5 elements, where the values are square of numbers between 1 and 30 (both included)")

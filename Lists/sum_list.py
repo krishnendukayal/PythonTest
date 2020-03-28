@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
+
 a = []
 list_data=int(input("How many data do you want for list\t"))
 for i in range(list_data):

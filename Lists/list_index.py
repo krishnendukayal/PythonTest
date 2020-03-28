@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
+
 l = [12,200,300,34,5]
 print("This is the list {}".format(l))
 z = int(input("Enter the value\t"))

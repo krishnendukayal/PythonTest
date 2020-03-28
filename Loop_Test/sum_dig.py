@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
+
 #Write a Python script to print the sum of digits of a given input integer. Eg : z=134628, Total =24  ie (1+3+4+6+2+8)
 
 print("Write a Python script to print the sum of digits of a given input integer. Eg : z=134628, Total =24  ie (1+3+4+6+2+8)")

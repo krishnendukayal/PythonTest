@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
+
 L1 = [[90,60,30],[69,80,79],[89,90,60]]
 
 suma = []

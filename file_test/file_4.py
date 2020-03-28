@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
+
 # f1=open("kris.txt","w")
 # f1.write("this is krish")
 # f1.flush()

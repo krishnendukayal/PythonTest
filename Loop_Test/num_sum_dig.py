@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
+
 #Write a Python script to print the count of digits of a given input integer. Eg : z=1346289, Count= 7
 
 print("Write a Python script to print the count of digits of a given input integer. Eg : z=1346289, Count= 7")

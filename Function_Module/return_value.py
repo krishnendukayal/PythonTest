@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# Author: Krishnendu Kayal
+# Email: krishnendu1985@gmail.com
 
 def suma(arg1, arg2):
     total = (arg1 + arg2)

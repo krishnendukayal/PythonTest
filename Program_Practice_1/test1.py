@@ -4,3 +4,4 @@
 
 print("Test file")
 print("Test file 2")
+print("This is my 3rd line added to file")

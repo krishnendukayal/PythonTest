@@ -6,4 +6,4 @@
 
 for i in range(1000, 3000):
     if i%7==0 and i%5 !=0:
-        9print(i)
+        print("The number is\t" + str(i))

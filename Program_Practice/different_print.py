@@ -8,11 +8,17 @@
 #   55555
 #    333
 #     1
-
+print("Write a program to take a odd number between 1-10 and print as below")
+print("999999999")
+print(" 7777777 ")
+print("  55555  ")
+print("   333   ")
+print("    1    \n")
 number = int(input("Please enter the number for different print\t"))
 a=[]
 for i in range(number+1):
     if i%2==1:
+
         a.append(i)
 
 print(a)

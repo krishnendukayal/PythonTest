@@ -2,6 +2,7 @@
 # Author: Krishnendu Kayal
 # Email: krishnendu1985@gmail.com
 
+print("This is a password verification program\n")
 pw=input("Please enter the password\t")
 la=["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
 ua=["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"]

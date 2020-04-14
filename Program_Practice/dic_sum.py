@@ -3,6 +3,7 @@
 # Email: krishnendu1985@gmail.com
 
 # Write a Python program to sum all the items in a dictionary
+print("Write a Python program to sum all the items in a dictionary\n")
 print("This is a program to sum all the item on the dictionary\nAssume all keys and values are numeric")
 dic1={1:10, 2:20}
 print("this is 1st dictionary dic1={1:10, 2:20}")

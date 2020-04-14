@@ -3,7 +3,7 @@
 # Email: krishnendu1985@gmail.com
 
 # Write a program that count vowels in the given string using Dictionary
-
+print("Write a program that count vowels in the given string using Dictionary\n")
 vowels=["a","e","i","o","u","A","E","I","O","U"]
 vowel_counts=0
 input_string=input("Enter the string to count the vowels\t")

@@ -16,3 +16,4 @@ for i in range(i_n):
     print(f"Time took to execution this iteration\t{time.time()} Seconds")
 end_time = time.time()
 print("\nTime took to execution this program\t{} Seconds".format(end_time - start_time))
+print("End of program")

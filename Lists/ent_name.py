@@ -15,5 +15,6 @@ while True:
 
 if len(name) == 0:
     print("You have Empty list")
+    print("You have Empty list")
 else:
     print("This is the entered name {}".format(name))

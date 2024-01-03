@@ -230,7 +230,17 @@ print (a)
 f.close()
 
 
+#Set is a collection of distinct objects. Even if you repeat an object in the collection, only one copy is retained in it.
+s2 = {1, 2, 3, 4, 5, 3,0, 1, 9}
+s3 = {"a", "b", "c", "d", "b", "e", "a"}
+print (s2)
+print (s3)
 
+#Set is a collection of distinct objects. Even if you repeat an object in the collection, only one copy is retained in it.
+s2 = {1, 2, 3, 4, 5, 3,0, 1, 9}
+s3 = {"a", "b", "c", "d", "b", "e", "a"}
+print (s2)
+print (s3)
 
 
 

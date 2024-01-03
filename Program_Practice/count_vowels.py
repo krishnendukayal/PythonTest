@@ -21,3 +21,4 @@ a={x : input_string.count(x) for x in count}
 
 
 print(a)
+print(a)

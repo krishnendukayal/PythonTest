@@ -1,8 +1,3 @@
-#!/usr/bin/python
-# Author: Krishnendu Kayal
-# Email: krishnendu1985@gmail.com
-# Date: 11/27/2023
-
 class Employee:
 
     no_of_emp=0
@@ -23,7 +18,7 @@ class Employee:
         return "{}.{}@company.com".format(self.fname,self.lname)
 
     def raiseamount(self):
-        self.pay = int((self.pay*self.raise_amount))
+        self.pay = (self.pay*self.raise_amount)
 
     @classmethod
     def set_raise_amount(cls, amount):
@@ -39,8 +34,15 @@ class Employee:
         if day.weekday() ==5 or day.weekday()==6:
             return False
         return True
-    
-    
+class Developer(Employee):
+    raise_amount=1.10
+    def __init__(self, fname, lname, age, pay, prog_lang):
+        super().__init__(fname, lname, age, pay)
+        self.prog_lang=prog_lang
+        #Employee.__init__(self, fname, lname, age, pay) --> This is another way to copy instance
+
+
+
 e1=Employee("krishnendu", "kayal", 33, 90000)
 e2=Employee("sanchari", "kayal", 29, 100000)
 e1_name=e1.fullname()
@@ -56,5 +58,16 @@ print(e2_email)
 print(e2.pay)
 print(e1.pay)
 print(Employee.no_of_emp)
-# add a new line 
 
+d1=Developer("krishnendu", "kayal", 33, 90000, "C++")
+d2=Developer("sanchari", "kayal", 29, 100000, "Java")
+print(d1.email())
+print(d2.email())
+#print(help(Developer))
+print(d1.pay)
+d1.raiseamount()
+print(d1.pay)
+print(d1.email())
+print(d1.prog_lang)
+print(d2.email())
+print(d2.prog_lang)

@@ -17,3 +17,11 @@ if __name__ == "__main__":
         print(f"The runner-up score is: {runner_up_score}")
     except ValueError:
         print("Invalid input. Please enter numerical scores separated by space.")
+
+
+# if __name__ == '__main__':
+#     n = int(input())
+#     arr = list(map(int, input().split()))
+#     arr1 = set(arr)
+#     arr2 = sorted(arr1)
+#     print(arr2[-2])

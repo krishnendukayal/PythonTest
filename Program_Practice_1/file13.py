@@ -1,9 +1,16 @@
-import os
+class Employee:
+   empCount = 0
+   def __init__(self, name, age):
+      self.__name = name
+      self.__age = age
+      Employee.empCount += 1
+   @classmethod
+   def showcount(cls):
+        print (cls.empCount)
 
-db_user = os.getlogin()
-db_password = os.environ.get('DB_PASS')
+e1 = Employee("Bhavana", 24)
+e2 = Employee("Rajesh", 26)
+e3 = Employee("John", 27)
+e1.showcount()
+Employee.showcount()
 
-print(db_user)
-print(db_password)
-print("This is new line")
-print("Test done")
